@@ -62,5 +62,5 @@ TRANSLATIONS += \
     res/zh_TW.ts
 
 win32{
-RC_ICONS = BiliLocal.ico
+RC_ICONS = baraplayer.ico
 }
